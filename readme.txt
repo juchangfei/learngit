@@ -17,4 +17,4 @@ o654321567890
 dfghjkl;
 ppppppppp
 qqqqqqqqqqq
-git is very very good!
+git is good!
