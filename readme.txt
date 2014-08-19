@@ -17,7 +17,7 @@ o654321567890
 dfghjkl;
 ppppppppp
 qqqqqqqqqqq
-git is very good!
-svn is not good!
-svn is not good!
-svn is not good!
+git is very bad!
+svn is not bad!
+svn is not bad!
+svn is not bad!
